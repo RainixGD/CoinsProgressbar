@@ -1,4 +1,4 @@
 /.vs
 /build
 /out
-CMakeSettings.txt
+CMakeSettings.json
