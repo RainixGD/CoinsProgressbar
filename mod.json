@@ -6,9 +6,9 @@
 		"mac": "2.2074",
 		"ios": "2.2074"
 	},
-	"id": "rainixgd.coinsprogressbar",
+	"id": "rainixdev.coinsprogressbar",
 	"name": "CoinsProgressbar",
 	"version": "v1.0.0",
-	"developer": "rainixgd",
-	"description": ""
+	"developer": "rainixdev",
+	"description": "A simple mod that shows the X coordinate of coins in the level on the progressbar"
 }
