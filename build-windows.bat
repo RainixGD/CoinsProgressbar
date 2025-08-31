@@ -1,0 +1,3 @@
+@echo off
+echo Building Windows...
+geode build -p windows

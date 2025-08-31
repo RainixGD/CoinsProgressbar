@@ -1,4 +1,8 @@
-/.vs
-/build
-/out
+.vs/
+out/
 CMakeSettings.json
+build/
+build-android32/
+build-android64/
+logo-assets/
+merge/

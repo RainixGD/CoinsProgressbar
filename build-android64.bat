@@ -1,0 +1,3 @@
+@echo off
+echo Building Android 64-bit...
+geode build -p android64

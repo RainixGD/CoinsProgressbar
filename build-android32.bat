@@ -1,0 +1,3 @@
+@echo off
+echo Building Android 32-bit...
+geode build -p android32

@@ -2,13 +2,21 @@
 	"geode": "4.4.0",
 	"gd": {
 		"win": "2.2074",
-		"android": "2.2074",
-		"mac": "2.2074",
-		"ios": "2.2074"
+		"android": "2.2074"
 	},
 	"id": "rainixdev.coinsprogressbar",
-	"name": "CoinsProgressbar",
+	"name": "Coins Progressbar",
 	"version": "v1.0.0",
 	"developer": "rainixdev",
-	"description": "A simple mod that shows the X coordinate of coins in the level on the progressbar"
+	"description": "A simple mod that shows the X coordinate of coins in the level on the progressbar",
+	"links": {
+		"community": "https://discord.gg/Me4zGgW33M",
+		"source": "https://github.com/RainixGD/CoinsProgressbar"
+	},
+	"tags": [
+		"interface",
+		"offline",
+		"gameplay",
+		"cheat"
+	]
 }
