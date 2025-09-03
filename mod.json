@@ -8,7 +8,7 @@
 	},
 	"id": "rainixdev.coinsprogressbar",
 	"name": "Coins Progressbar",
-	"version": "v1.0.1",
+	"version": "v1.0.2",
 	"developer": "rainixdev",
 	"description": "A simple mod that shows the X coordinate of coins in the level on the progressbar",
 	"links": {
