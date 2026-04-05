@@ -1,14 +1,14 @@
 {
-	"geode": "4.8.0",
+	"geode": "5.5.3",
 	"gd": {
-		"win": "2.2074",
-		"mac": "2.2074",
-		"ios": "2.2074",
-		"android": "2.2074"
+		"win": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081",
+		"android": "2.2081"
 	},
 	"id": "rainixdev.coinsprogressbar",
 	"name": "Coins Progressbar",
-	"version": "v1.0.2",
+	"version": "v1.0.3",
 	"developer": "rainixdev",
 	"description": "A simple mod that shows the X coordinate of coins in the level on the progressbar",
 	"links": {

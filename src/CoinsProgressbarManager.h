@@ -20,8 +20,8 @@ class CoinsProgressbarManager {
 	}
 
 	void redefineCoinsAndCoinRefs(float barHeight, CCArray* objects) {// call only from recreate
-		CCObject* obj;
-		CCARRAY_FOREACH(objects, obj) {
+		for (auto obj : CCArrayExt(objects))
+		{
 			auto block = static_cast<GameObject*>(obj);
 			if (block->m_objectID == GOLD_COIN_ID || block->m_objectID == SILVER_COIN_ID) {
 				auto coin = CoinBarSprite::create(block->m_objectID == GOLD_COIN_ID);
